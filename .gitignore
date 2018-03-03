@@ -1,5 +1,7 @@
 # VS Database
-.vs
+Separated/Client/.vs
+Separated/Server/.vs
+One/.vs
 
 # Prerequisites
 *.d
