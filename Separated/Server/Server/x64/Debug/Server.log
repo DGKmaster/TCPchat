@@ -1,2 +1,1 @@
-﻿  server.cpp
-  Server.vcxproj -> E:\YandexDisk\Projects\TCPchat\Server\x64\Debug\Server.exe
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Platforms\x64\PlatformToolsets\v141\Toolset.targets(36,5): error MSB8036: не удалось найти Windows SDK версии 10.0.16299.0. Установите нужную версию Windows SDK или измените версию SDK на страницах свойств проекта либо щелкнув правой кнопкой мыши решение и выбрав "Изменить целевую платформу решения".
