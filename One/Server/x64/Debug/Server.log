@@ -1,3 +1,2 @@
 ﻿  server.cpp
-e:\yandexdisk\projects\tcpchat\one\server\server.cpp(42): warning C4101: 'current_time_c': unreferenced local variable
   Server.vcxproj -> E:\YandexDisk\Projects\TCPchat\One\x64\Debug\Server.exe
