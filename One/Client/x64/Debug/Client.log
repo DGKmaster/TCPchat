@@ -1,4 +1,4 @@
 ﻿  client.cpp
-e:\yandexdisk\projects\tcpchat\one\client\client.cpp(45): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-e:\yandexdisk\projects\tcpchat\one\client\client.cpp(140): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+e:\yandexdisk\projects\tcpchat\one\client\client.cpp(49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+e:\yandexdisk\projects\tcpchat\one\client\client.cpp(152): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
   Client.vcxproj -> E:\YandexDisk\Projects\TCPchat\One\x64\Debug\Client.exe
