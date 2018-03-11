@@ -1,7 +1,11 @@
 # VS Database
-Separated/Client/.vs
-Separated/Server/.vs
 One/.vs
+Separated/Server/.vs
+Separated/Client/.vs
+
+One/x64
+Separated/Server/x64
+Separated/Client/x64
 
 # Prerequisites
 *.d
