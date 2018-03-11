@@ -1,0 +1,18 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (tcp-client.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  stdafx.cpp
+  tcpserver.cpp
+c:\users\alexey\source\repos\tcp-client\tcp-client\tcpserver.cpp(3): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  c:\users\alexey\source\repos\tcp-client\tcp-client\tcpserver.cpp(3): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  c:\users\alexey\source\repos\tcp-client\tcp-client\tcpserver.cpp(6): note: использование предварительно скомпилированного заголовка
+c:\users\alexey\source\repos\tcp-client\tcp-client\tcpserver.cpp(66): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\um\winsock2.h(1848): note:  см. объявление "inet_ntoa"
+c:\users\alexey\source\repos\tcp-client\tcp-client\tcpserver.cpp(93): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\um\winsock2.h(1848): note:  см. объявление "inet_ntoa"
+c:\users\alexey\source\repos\tcp-client\tcp-client\tcpserver.cpp(95): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\um\winsock2.h(1848): note:  см. объявление "inet_ntoa"
+c:\users\alexey\source\repos\tcp-client\tcp-client\tcpserver.cpp(147): warning C4996: '_snprintf': This function or variable may be unsafe. Consider using _snprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1958): note:  см. объявление "_snprintf"
+c:\users\alexey\source\repos\tcp-client\tcp-client\tcpserver.cpp(148): warning C4996: 'strupr': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strupr. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\string.h(589): note:  см. объявление "strupr"
+  tcp-client.vcxproj -> C:\Users\Alexey\source\repos\tcp-client\Debug\tcp-server.exe
+  tcp-client.vcxproj -> C:\Users\Alexey\source\repos\tcp-client\Debug\tcp-server.pdb (Partial PDB)
