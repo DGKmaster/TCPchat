@@ -1,0 +1,8 @@
+﻿  Пропуск... (изменения не обнаружены)
+  stdafx.cpp
+  tcpclient.cpp
+c:\users\alexey\source\repos\tcp-client\tcp-client\tcpclient.cpp(6): warning C4603: _CRT_SECURE_NO_WARNINGS: макрос не определен или определение изменилось после использования предкомпилированного заголовка
+  c:\users\alexey\source\repos\tcp-client\tcp-client\tcpclient.cpp(6): note: Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
+  c:\users\alexey\source\repos\tcp-client\tcp-client\tcpclient.cpp(7): note: использование предварительно скомпилированного заголовка
+  tcp-client.vcxproj -> C:\Users\Alexey\source\repos\tcp-client\Debug\tcp-client.exe
+  tcp-client.vcxproj -> C:\Users\Alexey\source\repos\tcp-client\Debug\tcp-client.pdb (Partial PDB)
